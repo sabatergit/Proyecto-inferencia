@@ -1,0 +1,10 @@
+---
+title: "Proyecto inferencia"
+author: "David Sabater G C4l886, Felipe Pereira Fallas-C4I307,
+Angel Carbajal Perdomo C18923,Belén Morera Chacón C5H658"
+date: "`r Sys.Date()`"
+output: 
+  rmdformats::readthedown
+ 
+---
+
